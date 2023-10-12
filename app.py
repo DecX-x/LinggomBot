@@ -28,7 +28,7 @@ auth_token = "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"
 
 
 # Get the image URL for your logo
-LOGO_URL = "http://linggom.me/Picture1.png"
+LOGO_URL = "https://decx-x.github.io/linggom.github.io/Picture1.png"
 
 # Create an HTML tag for your logo
 LOGO_HTML = f'<img src="{LOGO_URL}" alt="My Logo">'
